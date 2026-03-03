@@ -1,0 +1,10 @@
+import Boot from './Boot.js';
+import System from './System.js';
+import EventStream from './EventStream.js';
+import Commands from './Commands.js';
+import Text from './Text.js';
+import Voice from './Voice.js';
+import Security from './Security.js';
+import Customization from './Customization.js';
+import Projects from './Projects.js';
+export const views = {Boot,System,EventStream,Commands,Text,Voice,Security,Customization,Projects};

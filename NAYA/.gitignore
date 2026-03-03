@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+naya_secrets/
+naya_secrets_proxy/
+*.key
+*.pem
+*.crt
+*.env
+*.json
+
+# Proxy
+proxy/
+*.conf
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.aider*
+
+.github
+
+

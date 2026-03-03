@@ -1,0 +1,1 @@
+# NAYA Engine Doctrine package

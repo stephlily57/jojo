@@ -1,0 +1,9 @@
+# Security & hygiene
+secrets/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.git
+.gitignore
+.env
